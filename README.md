@@ -2,7 +2,7 @@
 
 This is a list of all of the emerging websites, dashboards, and tools related to COVID WBE in California. 
 
-### California Based
+### California
 
 * Stanford SCAN Network: https://soe-wbe-pilot.wl.r.appspot.com/charts
 
@@ -16,12 +16,15 @@ Includes data from wastewater treatment plants from 11 counties located througho
 
 Includes data from all California POTW's participating and their data.
 
-* ???: https://www.arcgis.com/apps/dashboards/aaa7e1780d70414a9c35923d98db13fb
+* Equity of Wastewater Monitoring in CA: https://www.arcgis.com/apps/dashboards/aaa7e1780d70414a9c35923d98db13fb
 
 * UC Davis & City of UC-Davis: https://healthydavistogether.org/wastewater-testing/#/central-davis/recent
 
+### National
 
-### Globally Based
+* CDC https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+
+### Global/International
 
 * UC Merced W-SPHERE: https://sphere.waterpathogens.org/map
 
